@@ -7,7 +7,7 @@ We will:
 
 * Import the dataset and inspect.
 * Perform data cleaning operations.
-* Calculate discrptive statistics.
+* Calculate descriptive statistics.
 * Perform statistical analysis.
 * Create visulatization.
 
